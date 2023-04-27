@@ -1,17 +1,17 @@
 .cabeçalho {
-    background-color: rgb(31, 9, 155);
+    background-color: rgb(255, 44, 174);
     margin: 0%;
     padding: 5px 5px
 }
 
 .cabeçalho{
-    color: rgb(255, 252, 47);
+    color: rgb(130, 178, 241);
     text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
 
 .cabeçalho-título2 {
-    color: rgba(253, 139, 46, 0.877);
+    color: rgba(240, 179, 227, 0.877);
     font-size: 15px;
 }
 .cabeçalho-título3 {
